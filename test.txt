@@ -1,5 +1,5 @@
 for testing csd scanning
 ....................................................
 test _BASE64_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
--BEGIN DSA PRIVATE KEY-asd32
+-BEGIN DSA PRIVATE KEY-asd32asr23as-END DSA PRIVATE KEY-
 Authorization=abc123;
