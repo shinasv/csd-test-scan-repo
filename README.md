@@ -2,5 +2,5 @@
 for testing csd scanning
 ....................................................
 test
-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+_BASE64_CHARS = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=\
 -BEGIN DSA PRIVATE KEY-asd32
