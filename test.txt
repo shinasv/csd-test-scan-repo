@@ -4,3 +4,8 @@ test _BASE64_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz012345
 -BEGIN DSA PRIVATE KEY-asd32asr23as-END DSA PRIVATE KEY-
 Authorization=abc123;
 oauthService.password,getPassword()
+svc_password,getPassword()
+Bearer,getBearer()
+artifactory_password,getArtifact()
+encryption.key.value,getEncry()
+consul_password,getAct()
