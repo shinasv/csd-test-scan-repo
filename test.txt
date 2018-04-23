@@ -2,16 +2,16 @@ for testing csd scanning
 ....................................................
 test _BASE64_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
 -BEGIN DSA PRIVATE KEY-asd32asr23as-END DSA PRIVATE KEY-
-Authorization = getAuth();
-oauthService.password, getPassword()
-svc_password, getPassword()
+value, Authorization = getAuth();
+"string", oauthService.password, getPassword()
+val, svc_password, getPassword()
 Bearer, getBearer()
-artifactory_password, getArtifact()
-encryption.key.value, getEncry()
-consul_password, getAct()
-split.api.key.javascript, getArtifact()
-id_token, getAct()
-apigee.authorizationkey, getAct()
-artifactory_pg_password, getAct()
-datasource.password, getArtifact()
-oauthService.password, getArtifact()
+value, artifactory_password, getArtifact()
+value, encryption.key.value, getEncry()
+value, consul_password, getAct()
+value, split.api.key.javascript, getArtifact()
+value, id_token, getAct()
+value, apigee.authorizationkey, getAct()
+value, artifactory_pg_password, getAct()
+value, datasource.password, getArtifact()
+value, oauthService.password, getArtifact()
