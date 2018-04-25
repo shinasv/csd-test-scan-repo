@@ -16,3 +16,4 @@ value, artifactory_pg_password, getAct()
 value, datasource.password, getArtifact()
 value, oauthService.password, getArtifact()
 va232l, svc_password, getPassword()adsass
+e3a0cfdbfb71fae5c89e422ad8322b6a44aed85bf68e3d11f3f315bbaa82ad22
