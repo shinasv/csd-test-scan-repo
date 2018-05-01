@@ -17,3 +17,7 @@ value, datasource.password, getArtifact()
 value, oauthService.password, getArtifact()
 va232l, svc_password, getPassword()adsass
 e3a0cfdbfb71fae5c89e422ad8322b6a44aed85bf68e3d11f3f315bbaa82ad22
+aws_access_key = "AKIAIOSFODNN7EXAMPLE"
+aws_access_key1 = getKey()
+aws_secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+aws_secret_key1 = this.getKey()
