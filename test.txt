@@ -3,6 +3,8 @@ for testing csd scanning
 test _BASE64_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
 -BEGIN DSA PRIVATE KEY-asd32asr23as-END DSA PRIVATE KEY-
 value, Authorization = getAuth();
+Authorization = "e3a0cfdbfb71fae5c89e422ad8322b6a44aed85bf68e3d11f3f315bbaa82ad22"
+get("Authorization","AKIAIOSFODNN7EXAMPLE")
 "string", oauthService.password, getPassword()
 val, svc_password, getPassword()
 Bearer, getBearer()
