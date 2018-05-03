@@ -34,3 +34,5 @@ abc="1QBuBvvYf/Gecrty4kyWCJSS3U0YNL4KdhXrVN1Q"
 access,"1QBuBvvYf/Gecrty4kyWCJSS3U0YNL4KdhXrVN1Q"
 obj.getClassImplementsHeritageClauseElements
 (io/docs/ts/latest/api/common/index/NgFo1
+secret=validatePropertyOrAttributeName=function
+secret1=CompileAnimationStateDeclarationMetadata
