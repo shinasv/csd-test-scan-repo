@@ -26,3 +26,11 @@ aws_secret_key1 = this.getKey()
 acess=000195722084667266941
 000195722084667266941123
 01234654874654164163
+value, Authorization = getAuth();
+Authorization="e3a0cfdbfb71fae5c89e422ad8322b6a44aed85bf68e3d11f3f315bbaa82ad22"
+get("Authorization"," AKIAIOSFODNN7EXAMPLE")
+awe=AKIAJLXI4THFZU35UEWA
+abc="1QBuBvvYf/Gecrty4kyWCJSS3U0YNL4KdhXrVN1Q"
+access,"1QBuBvvYf/Gecrty4kyWCJSS3U0YNL4KdhXrVN1Q"
+obj.getClassImplementsHeritageClauseElements
+(io/docs/ts/latest/api/common/index/NgFo1
