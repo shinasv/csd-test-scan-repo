@@ -43,7 +43,7 @@ Revert [fe2162e0ba18123f5b301cba4de1e9dd74e437cd](https://github.com/TooTallNate
 							"details": response.body.message
 >>>>>>> 0fe91a8fe80bc39219cd8c53d7a328b18d1d0808
 						});
-					}
+0fe91a8fe80bc39219cd8c53d7a328b18d1d0808					}
 				});
 			}catch(e){
 				mainCallback(e);
