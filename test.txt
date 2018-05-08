@@ -36,7 +36,7 @@ obj.getClassImplementsHeritageClauseElements
 (io/docs/ts/latest/api/common/index/NgFo1
 secret=validatePropertyOrAttributeName=function
 secret1=CompileAnimationStateDeclarationMetadata
-Revert [fe2162e0ba18123f5b301cba4de1e9dd74e437cd](https://github.com/TooTallNate/node-agent-base/commit/fe2162e0ba18123f5b301cba4de1e9dd74e437cd)
+
 =======
 						mainCallback({
 							"error": "Could not get authentication token for updating Service catalog.",
