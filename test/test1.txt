@@ -1,0 +1,60 @@
+for testing csd scanning
+....................................................
+test _BASE64_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+-BEGIN DSA PRIVATE KEY-asd32asr23as-END DSA PRIVATE KEY-
+value, Authorization = getAuth();
+Authorization = "e3a0cfdbfb71fae5c89e422ad8322b6a44aed85bf68e3d11f3f315bbaa82ad22"
+get("Authorization","AKIAIOSFODNN7EXAMPLE")
+"string", oauthService.password, getPassword()
+val, svc_password, getPassword()
+Bearer, getBearer()
+value, artifactory_password, getArtifact()
+value, encryption.key.value, getEncry()
+value, consul_password, getAct()
+value, split.api.key.javascript, getArtifact()
+value, id_token, getAct()
+value, apigee.authorizationkey, getAct()
+value, artifactory_pg_password, getAct()
+value, datasource.password, getArtifact()
+value, oauthService.password, getArtifact()
+va232l, svc_password, getPassword()adsass
+e3a0cfdbfb71fae5c89e422ad8322b6a44aed85bf68e3d11f3f315bbaa82ad22
+aws_access_key = "AKIAIOSFODNN7EXAMPLE"
+aws_access_key1 = getKey()
+aws_secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+aws_secret_key1 = this.getKey()
+acess=000195722084667266941
+000195722084667266941123
+01234654874654164163
+value, Authorization = getAuth();
+Authorization="e3a0cfdbfb71fae5c89e422ad8322b6a44aed85bf68e3d11f3f315bbaa82ad22"
+get("Authorization"," AKIAIOSFODNN7EXAMPLE")
+awe=AKIAJLXI4THFZU35UEWA
+abc="1QBuBvvYf/Gecrty4kyWCJSS3U0YNL4KdhXrVN1Q"
+access,"1QBuBvvYf/Gecrty4kyWCJSS3U0YNL4KdhXrVN1Q"
+obj.getClassImplementsHeritageClauseElements
+(io/docs/ts/latest/api/common/index/NgFo1
+secret=validatePropertyOrAttributeName=function
+secret1=CompileAnimationStateDeclarationMetadata
+
+=======
+						mainCallback({
+							"error": "Could not get authentication token for updating Service catalog.",
+							"details": response.body.message
+>>>>>>> 0fe91a8fe80bc39219cd8c53d7a328b18d1d0808
+						});
+0fe91a8fe80bc39219cd8c53d7a328b18d1d0808					}
+				});
+			}catch(e){
+				mainCallback(e);
+			}
+		},
+    =======
+>>>>>>> 0fe91a8fe80bc39219cd8c53d7a328b18d1d0808
+const config = require('./components/config.js'); //Import the environment data.
+const logger = require("./components/logger.js"); //Import the logging module.
+const async = require("async");
+const AWS = require('aws-sdk');
+const errorHandlerModule = require("./components/error-handler.js");
+const request = require('request');
+const scEvents = require('./utils/service-creation-events.js');
