@@ -1,7 +1,7 @@
 for testing csd scanning
 ....................................................
 test _BASE64_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
--BEGIN DSA PRIVATE KEY-asd32asr23as-END DSA PRIVATE KEY-
+-----BEGIN DSA PRIVATE KEY-----asd32asr23as-----END DSA PRIVATE KEY-----
 value, Authorization = getAuth();
 Authorization = "e3a0cfdbfb71fae5c89e422ad8322b6a44aed85bf68e3d11f3f315bbaa82ad22"
 get("Authorization","AKIAIOSFODNN7EXAMPLE")
@@ -51,6 +51,8 @@ secret1=CompileAnimationStateDeclarationMetadata
 		},
     =======
 >>>>>>> 0fe91a8fe80bc39219cd8c53d7a328b18d1d0808
+abc.xyz@T-Mobile.com
+abc@xyz.com
 const config = require('./components/config.js'); //Import the environment data.
 const logger = require("./components/logger.js"); //Import the logging module.
 const async = require("async");
